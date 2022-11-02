@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-import Box from 'components/utils/Box';
+import Box from 'utils/Box';
 import {FeedBackButton} from './Feedback.styled';
 
 const FeedbackOptions = ({options, onLeaveFeedback}) => {
